@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013172_0000_0F91041DA6781178"/>
-            <pb facs="tcp:013172_0001_0F910420853F2B90" rendition="simple:additions"/>
+            <pb facs="unknown:013172_0000_0F91041DA6781178"/>
+            <pb facs="unknown:013172_0001_0F910420853F2B90"
+                rendition="simple:additions"/>
             <p>A POEM ON DIVINE REVELATION; BEING AN EXERCISE DELIVERED At the PUBLIC COMMENCEMENT AT NASSAU-HALL, SEPTEMBER 28. 1774.</p>
             <p>By the ſame Perſon, who on a ſimilar occaſion, Sept. 25. 1771. delivered a ſmall Poem on <hi>the riſing Glory of America.</hi>
             </p>
@@ -122,22 +123,22 @@
             <p>M.DCC.LXXIV.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:013172_0002_0F910420A01EBF70"/>
+            <pb facs="unknown:013172_0002_0F910420A01EBF70"/>
             <head>PREFACE.</head>
             <p>THE Author of the following Poem, or as perhaps it may be better ſtyled Poetical Ora<g ref="char:EOLhyphen"/>tion, may ſeem to have been rather unhappy in the choice of his ſubject, which being a good deal hiſtorical, did not admit of much poetic dreſs or ornament, nor gave much ſcope to fan<g ref="char:EOLhyphen"/>cy or imagination to exert itſelf, that in which the great ſtrength of a poet lies. With reſpect to this he would beg leave to obſerve, that the ſubject was choſen perhaps happily enough, as the foundation of an Exerciſe in an inſtitution under the patronage of gentlemen diſtinguiſhed as friends to Revelation, and on an occaſion when the greater number of them were convened.</p>
             <p>In the ſecond place it may be objected, that an imitation of the poet Milton may be traced through the whole of the performance, though the Author has not been able to attain to any thing
-<pb facs="tcp:013172_0003_0F910421577762A0"/>
+<pb facs="unknown:013172_0003_0F910421577762A0"/>
 of the ſpirit of that immortal bard. To this he has only to reply, that an imitation of great originals is placed by Longinus among the ſources of good writing. He therefore con<g ref="char:EOLhyphen"/>ceives himſelf free from cenſure on account of any imitation of the poet Milton, which may be ſeen in his performance, though he is ſenſible of his unhappineſs in not having been able to at<g ref="char:EOLhyphen"/>tain to any degree of his excellent ſpirit. This however is a misfortune common to him with many honeſt writers, and for which he throws himſelf on the candour of the Public.</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:013172_0004_0F91042283032DE0"/>
+            <pb facs="unknown:013172_0004_0F91042283032DE0"/>
             <head>ARGUMENT.</head>
             <p>The introduction, complimenting the college and the aſſembly convened on the day of commencement.—The ſubject propoſed.—A view of divine revelation from its earlieſt dawn after the fall of Adam, to its fuller ſplendor in the writings of the prophets.—From this ſource the heathen philoſophers received much light and information.—Reaſon of itſelf unable to give the knowledge of the truth.—The meridian brightneſs of divine revelation and its general diffuſion at the coming of the Saviour.—Its happy influence at that period, in baniſhing heathen ſuperſtition, re<g ref="char:EOLhyphen"/>ſtraining the ferocity of war, and giving a new range to poeſy and eloquence; life and immortality being brought to light.—A ſhort hint of the firſt oppoſition to the goſpel.—Darkneſs of Popery which came upon the weſt.—Mahometan deluſion which about the ſixth century took place in the eaſt.—Some countries of Eu<g ref="char:EOLhyphen"/>rope emerging from Popiſh ſuperſtition, Bohemia, <hi>&amp;c.</hi>—Refor<g ref="char:EOLhyphen"/>mation in England.—The light of revelation riſing on America.—Rekindled in the eaſt.—Mahometan impoſture deſtroyed.—The Jews confeſſing the Meſſiah.—Pagan idolatry and ignorance removed —The glory with which revelation ſhall yet appear on this continent.—Divine knowledge covering the earth as the wa<g ref="char:EOLhyphen"/>ters the ſea.—Its ſtreams flowing back at the laſt ſcene of things to their firſt ſource, and mixing with the bright floods of celeſ<g ref="char:EOLhyphen"/>tial day·—The concluſion valedictory to NASSAU-HALL, the place of the author's education.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:013172_0005_0F91042383C65EA0"/>
+            <pb facs="unknown:013172_0005_0F91042383C65EA0"/>
             <head>AN EXERCISE DELIVERED At the PUBLIC COMMENCEMENT AT NASSAU-HALL,
 <date>September 28. 1774.</date>
             </head>
@@ -161,7 +162,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Fierce ſong of battle kindling martial rage</l>
                <l>And deſp'rate purpoſe in heroic minds:</l>
                <l>
-                  <pb n="2" facs="tcp:013172_0006_0F9104239EC7C6A8"/>But ſacred truth fair ſcience and each grace</l>
+                  <pb n="2" facs="unknown:013172_0006_0F9104239EC7C6A8"/>But ſacred truth fair ſcience and each grace</l>
                <l>Of virtue born; health, elegance and eaſe</l>
                <l>And temp'rate mirth in ſocial intercourſe</l>
                <l>Convey rich pleaſure to the mind; and oft</l>
@@ -197,7 +198,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>The lyre ſo long neglected and each ſtrain</l>
                <l>Unmeditated, and long ſince forgot?</l>
                <l>
-                  <pb n="3" facs="tcp:013172_0007_0F91042457C2B3E0"/>But yet conſtrain'd on this occaſion ſweet</l>
+                  <pb n="3" facs="unknown:013172_0007_0F91042457C2B3E0"/>But yet conſtrain'd on this occaſion ſweet</l>
                <l>To this fam'd hall and this aſſembly fair</l>
                <l>With comely preſence honouring the day,</l>
                <l>She fain would pay a tributary ſtrain.</l>
@@ -233,7 +234,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Freſh as a ſtar from Judah's ſacred line.</l>
                <l>This, Amos' ſon touch'd with ſeraphic fire</l>
                <l>
-                  <pb n="4" facs="tcp:013172_0008_0F910425D34F11C8"/>In after times beheld. He ſaw it beam</l>
+                  <pb n="4" facs="unknown:013172_0008_0F910425D34F11C8"/>In after times beheld. He ſaw it beam</l>
                <l>From Judah's royal tribe; he ſaw it ſhine</l>
                <l>O'er Judah's happy land, and bade the hills,</l>
                <l>The rocky hills and barren vallies ſmile,</l>
@@ -271,7 +272,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>O'er Canaan's happy land. Her fav'rite ſeers</l>
                <l>Had intercourſe divine with this pure ſource,</l>
                <l>
-                  <pb n="5" facs="tcp:013172_0009_0F910425F28CEEE8"/>And oft from them a ſtream of light did ſlow,</l>
+                  <pb n="5" facs="unknown:013172_0009_0F910425F28CEEE8"/>And oft from them a ſtream of light did ſlow,</l>
                <l>To each adjoining vale and deſert plain,</l>
                <l>Loſt in the umbrage of dark heathen ſhades.</l>
                <l>'Twas at this ſtream the fabling poets drank</l>
@@ -307,7 +308,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Elſe whence the ſculptur'd image of a god,</l>
                <l>And marble buſt ador'd as deity,</l>
                <l>
-                  <pb n="6" facs="tcp:013172_0010_0F91042696791128"/>Altar and hecatomb prepar'd for theſe,</l>
+                  <pb n="6" facs="unknown:013172_0010_0F91042696791128"/>Altar and hecatomb prepar'd for theſe,</l>
                <l>Or human ſacrifice when hecatomb</l>
                <l>Conſum'd in vain with ceremony dire,</l>
                <l>And rites abhorr'd, denied the wiſh'd ſucceſs.</l>
@@ -342,7 +343,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>(a ſee each truth and paradox explain'd,</l>
                <l>Which not each wiſe philoſopher of Greece,</l>
                <l>
-                  <pb n="7" facs="tcp:013172_0011_0F910427565D1900"/>Could tell, nor ſage of India, nor the ſons</l>
+                  <pb n="7" facs="unknown:013172_0011_0F910427565D1900"/>Could tell, nor ſage of India, nor the ſons</l>
                <l>Of Zoroaſter, in deep ſecrets ſkill'd.</l>
             </lg>
             <lg>
@@ -380,7 +381,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
             <lg>
                <l>North of Judea now this day appears</l>
                <l>
-                  <pb n="8" facs="tcp:013172_0012_0F91042817BE5E80"/>On Syria weſt, and in each city fair</l>
+                  <pb n="8" facs="unknown:013172_0012_0F91042817BE5E80"/>On Syria weſt, and in each city fair</l>
                <l>Full many a church of noble fame doth riſe.</l>
                <l>In Antioch the ſeat of Syrian kings,</l>
                <l>And old Damaſcus, where Hazael reign'd.</l>
@@ -417,7 +418,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Drinks the pure luſtre of the orient ray</l>
                <l>Aſſuaging her fierce thirſt of bloody war,</l>
                <l>
-                  <pb n="9" facs="tcp:013172_0013_0F9104291F258E78"/>Dominion boundleſs, victory and fame;</l>
+                  <pb n="9" facs="unknown:013172_0013_0F9104291F258E78"/>Dominion boundleſs, victory and fame;</l>
                <l>Each bold centurion, and each praetor finds</l>
                <l>A nobler empire to ſubdue themſelves.</l>
             </lg>
@@ -454,7 +455,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Now ev'ry hill reflects a purer ray,</l>
                <l>Than when Aurora paints his woods in gold,</l>
                <l>
-                  <pb n="10" facs="tcp:013172_0014_0F91042AB44BFC38"/>Or when the ſun firſt in the orient ſky,</l>
+                  <pb n="10" facs="unknown:013172_0014_0F91042AB44BFC38"/>Or when the ſun firſt in the orient ſky,</l>
                <l>Sets thick with gems the dewy mountain's brow.</l>
             </lg>
             <lg>
@@ -495,7 +496,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
             </lg>
             <lg>
                <l>
-                  <pb n="11" facs="tcp:013172_0015_0F91042C2DE64268"/>Peace with the graces and fair ſcience now</l>
+                  <pb n="11" facs="unknown:013172_0015_0F91042C2DE64268"/>Peace with the graces and fair ſcience now</l>
                <l>Wait on the goſpel <gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap>ar; ſcience improv'd</l>
@@ -535,7 +536,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>The poet drinks, and glorying in new ſtrength,</l>
                <l>Soars high in rapture of ſublimer ſtrains;</l>
                <l>
-                  <pb n="12" facs="tcp:013172_0016_0F91042D6D1588D0"/>Such as that prophet ſang who tun'd his harp</l>
+                  <pb n="12" facs="unknown:013172_0016_0F91042D6D1588D0"/>Such as that prophet ſang who tun'd his harp</l>
                <l>On Zion hill and with ſeraphic praiſe</l>
                <l>In pſalm and ſacred ode by Siloa's brook,</l>
                <l>Drew HIS attention who firſt touch'd the ſoul</l>
@@ -571,7 +572,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Thoſe faithful found, who undiſmay'd did bear</l>
                <l>A noble evidence to truth, were ſlain.</l>
                <l>
-                  <pb n="13" facs="tcp:013172_0017_0F91042E22E95CD8"/>Why ſhould I ſing of theſe or here record,</l>
+                  <pb n="13" facs="unknown:013172_0017_0F91042E22E95CD8"/>Why ſhould I ſing of theſe or here record,</l>
                <l>As if 'twere praiſe, in poeſy or ſong,</l>
                <l>Or ſculptur'd ſtone, to eternize the names,</l>
                <l>Which writ elſewhere in the fair book of life,</l>
@@ -607,7 +608,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Thoſe golden luminaries are remov'd,</l>
                <l>Which once in Aſia ſhone. Athens no more</l>
                <l>
-                  <pb n="14" facs="tcp:013172_0018_0F91042EE264DEE0"/>For truth and learning fam'd. Corinth obſcur'd,</l>
+                  <pb n="14" facs="unknown:013172_0018_0F91042EE264DEE0"/>For truth and learning fam'd. Corinth obſcur'd,</l>
                <l>Ionia mourns through all her ſea-girt iſles.</l>
             </lg>
             <lg>
@@ -644,7 +645,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>And reformation in full glory ſhines.</l>
                <l>Oh for a muſe of more exalted wing,</l>
                <l>
-                  <pb n="15" facs="tcp:013172_0019_0F91042F980FDDC8"/>To celebrate thoſe men who planted firſt</l>
+                  <pb n="15" facs="unknown:013172_0019_0F91042F980FDDC8"/>To celebrate thoſe men who planted firſt</l>
                <l>The chriſtian church in theſe remoteſt lands;</l>
                <l>From thoſe high plains where ſpreads a colony,</l>
                <l>Gen'<gap reason="illegible: indecipherable" extent="1 letter">
@@ -692,7 +693,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                      <p>It may now be aſked why ſo particular in the account of this inſtitution, and what has it to do with an exerciſe delivered at Naſſau-Hall in the province of New-Jerſey? The author has prin<g ref="char:EOLhyphen"/>cipally this to reply, that on reſiding ſome time in the county of Somerſet, he became acquainted with the merit of the ſchool, and thought himſelf under an obligation as a wellwiſher to mankind, to recommend it to the Public.</p>
                   </note>.</l>
                <l>
-                  <pb n="16" facs="tcp:013172_0020_0F91043076FC5EC8"/>Thence to Virginia, ſiſter colony,</l>
+                  <pb n="16" facs="unknown:013172_0020_0F91043076FC5EC8"/>Thence to Virginia, ſiſter colony,</l>
                <l>Lib'ral in ſentiment, and breathing high,</l>
                <l>The noble ardour of the freeborn ſoul.</l>
                <l>To Carolina thence, and that warm clime</l>
@@ -709,7 +710,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>College, and ſchool, upon th' Atlantic coaſt,</l>
                <l>Or inland town, through ev'ry province wide,</l>
                <l>
-                  <pb n="17" facs="tcp:013172_0021_0F9104321887E840"/>Which riſing up like pyramids of fire,</l>
+                  <pb n="17" facs="unknown:013172_0021_0F9104321887E840"/>Which riſing up like pyramids of fire,</l>
                <l>Give light and glory to the weſtern world.</l>
             </lg>
             <lg>
@@ -745,7 +746,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Of truth and meekneſs, and the kindly dew</l>
                <l>Which ſell on Zion hill; it loves the care</l>
                <l>
-                  <pb n="18" facs="tcp:013172_0022_0F910432971B40B0"/>Of humble ſhepherds, and the rural ſwain,</l>
+                  <pb n="18" facs="unknown:013172_0022_0F910432971B40B0"/>Of humble ſhepherds, and the rural ſwain,</l>
                <l>And tended by their hands it flouriſhes</l>
                <l>With fruit and bloſſoms, and ſoon gives a ſhades,</l>
                <l>Beneath which ev'ry traveller ſhall reſt,</l>
@@ -781,7 +782,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>This ſtill ſhall flouriſh and ſurvive the date,</l>
                <l>Of each wide ſtate and empire of the earth</l>
                <l>
-                  <pb n="19" facs="tcp:013172_0023_0F9104370A18A7E0"/>Hid in ſepulchral monument of kings,</l>
+                  <pb n="19" facs="unknown:013172_0023_0F9104370A18A7E0"/>Hid in ſepulchral monument of kings,</l>
                <l>Shall bear an equal date with that true light,</l>
                <l>Which ſhone from earth to heav'n, and which ſhall ſhine</l>
                <l>Up through eternity, and be the light</l>
@@ -816,7 +817,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>Of war by heathen princes wag'd; There's nought</l>
                <l>Shall injure or deſtroy; they ſhall not hurt</l>
                <l>
-                  <pb n="20" facs="tcp:013172_0024_0F91043726956160"/>In all my holy mountain ſaith the Lord.</l>
+                  <pb n="20" facs="unknown:013172_0024_0F91043726956160"/>In all my holy mountain ſaith the Lord.</l>
                <l>The earth in peace and ev'ry ſhadow fled,</l>
                <l>Beſpeaks Emmanuel's happy reign when Jew,</l>
                <l>And kindred Gentile ſhall no more contend,</l>
@@ -852,7 +853,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>The Indian ſage from ſuperſtition freed,</l>
                <l>Be taught a nobler heav'n than cloud-topt-hill,</l>
                <l>
-                  <pb n="21" facs="tcp:013172_0025_0F910437ED92FE00"/>Or ſep'rate iſland in the wat'ry waſte.</l>
+                  <pb n="21" facs="unknown:013172_0025_0F910437ED92FE00"/>Or ſep'rate iſland in the wat'ry waſte.</l>
                <l>The aged Sachem fix his moving tribe,</l>
                <l>And grow humane now taught the arts of peace.</l>
                <l>In human ſacrifice delight no more,</l>
@@ -888,7 +889,7 @@ of the ſpirit of that immortal bard. To this he has only to reply, that an imit
                <l>With comely preſence honouring the day.</l>
                <l>Far hence I go to ſome ſequeſt'red vale</l>
                <l>
-                  <pb n="22" facs="tcp:013172_0026_0F91043899B9BD38"/>By woody hill or ſhady mountain ſide,</l>
+                  <pb n="22" facs="unknown:013172_0026_0F91043899B9BD38"/>By woody hill or ſhady mountain ſide,</l>
                <l>Where far from converſe and the ſocial band,</l>
                <l>My days ſhall paſs inglorious away: <note n="*" place="bottom">In theſe lines the author has not the leaſt reference to the place of his preſent reſidence but to ſome weſtern part of Ameri<g ref="char:EOLhyphen"/>ca, where in the courſe of his life he may poſſibly be thrown. Should he ever remove from his preſent ſituation, it ſhall be with equal melancholy and regret, and if the Muſe can produce a ſtrain it ſhall be remembered in ſong. For though it may ſeem a vain boaſt after the preceding poem which is really very moderate, to talk of giving memory to fountain, landſcape, or grove, yet it is very certain that love will raiſe the mind to language and ſenti<g ref="char:EOLhyphen"/>ment, to which cold weak geneus of itſelf, could never attain.</note>
                </l>
